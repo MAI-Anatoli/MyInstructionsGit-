@@ -20,5 +20,9 @@ cd ~/Desktop/name_file
 ```
 ### Для Windows
 ```sh
-cd C:/user/name/Desctop/file_name
+cd C:/user/name/Desktop/file_name
+```
+## В Macos, Linus можно увидеть весь путь к файлу следующей командой:
+```sh
+pwd
 ```
