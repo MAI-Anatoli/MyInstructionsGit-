@@ -13,3 +13,12 @@ git config user.name
 ```sh
 git config user.email
 ```
+## Чтобы перейти в необходимый каталог (папку) нужно использовать следующую команду:
+### Для Macos, Linux
+```sh
+cd ~/Desktop/name_file
+```
+### Для Windows
+```sh
+cd C:/user/name/Desctop/file_name
+```
