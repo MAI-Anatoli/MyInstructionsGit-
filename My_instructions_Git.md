@@ -54,9 +54,9 @@ git commit -m "text"
 ## Чтобы удалить ненужный файл воспользуемся следующими командами:
 ### Для Windows
 ```sh
-del
+del <name_file>
 ```
 ### Для Linux, Macos
 ```sh
-rm
+rm <name_file>
 ```
