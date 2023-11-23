@@ -93,3 +93,8 @@ git merge
 ```sh
 git checkout name_branch_list
 ```
+## 18. Если необходимо удалить из ветки *__branch__* один из черновиков используем следующую команду:
+```sh
+git branch -d name_list
+```
+
