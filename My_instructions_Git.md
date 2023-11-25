@@ -112,3 +112,9 @@ https://github.com/gulden-geekbrains/version_control.git
 ```sh
 git clone https://github.com/gulden-geekbrains/version_control.git
 ```        
+## После копирования репозитория появится папка с рабочим проектом чтобы начать с ней работать надо перейти в нее с командой :
+```sh
+cd name_file
+```
+## После чего мы можем начать выполнять работу в этом репозитории
+
