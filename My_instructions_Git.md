@@ -108,3 +108,7 @@ HTTPS
 ```sh
 https://github.com/gulden-geekbrains/version_control.git
 ```
+## Чтобы сделать правильно клон репозитория нужно использовать следующий код:
+```sh
+git clone https://github.com/gulden-geekbrains/version_control.git
+```        
