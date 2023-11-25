@@ -103,3 +103,8 @@ git branch -d name_list
 git log --oneline --graph
 ```
 # Работа с удаленными репозиториями
+## Для того чтобы работать с удаленным репозиторием необходимо скопировать особенную ссылку:
+HTTPS
+```sh
+https://github.com/gulden-geekbrains/version_control.git
+```
