@@ -102,3 +102,4 @@ git branch -d name_list
 ```sh
 git log --oneline --graph
 ```
+# Работа с удаленными репозиториями
